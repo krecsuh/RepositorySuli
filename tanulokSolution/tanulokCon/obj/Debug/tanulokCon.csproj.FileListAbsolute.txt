@@ -1,0 +1,10 @@
+C:\Users\Atsuhy\source\repos\tanulokSolution\tanulokCon\bin\Debug\tanulokCon.exe.config
+C:\Users\Atsuhy\source\repos\tanulokSolution\tanulokCon\bin\Debug\tanulokCon.exe
+C:\Users\Atsuhy\source\repos\tanulokSolution\tanulokCon\bin\Debug\tanulokCon.pdb
+C:\Users\Atsuhy\source\repos\tanulokSolution\tanulokCon\bin\Debug\TanulokClassLibrary.dll
+C:\Users\Atsuhy\source\repos\tanulokSolution\tanulokCon\bin\Debug\TanulokClassLibrary.pdb
+C:\Users\Atsuhy\source\repos\tanulokSolution\tanulokCon\obj\Debug\tanulokCon.csproj.AssemblyReference.cache
+C:\Users\Atsuhy\source\repos\tanulokSolution\tanulokCon\obj\Debug\tanulokCon.csproj.CoreCompileInputs.cache
+C:\Users\Atsuhy\source\repos\tanulokSolution\tanulokCon\obj\Debug\tanulokCon.csproj.Up2Date
+C:\Users\Atsuhy\source\repos\tanulokSolution\tanulokCon\obj\Debug\tanulokCon.exe
+C:\Users\Atsuhy\source\repos\tanulokSolution\tanulokCon\obj\Debug\tanulokCon.pdb

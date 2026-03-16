@@ -1,0 +1,6 @@
+C:\Users\Atsuhy\source\repos\korok\Kor\bin\Debug\Kor.dll
+C:\Users\Atsuhy\source\repos\korok\Kor\bin\Debug\Kor.pdb
+C:\Users\Atsuhy\source\repos\korok\Kor\obj\Debug\KorClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Atsuhy\source\repos\korok\Kor\obj\Debug\KorClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Atsuhy\source\repos\korok\Kor\obj\Debug\Kor.dll
+C:\Users\Atsuhy\source\repos\korok\Kor\obj\Debug\Kor.pdb

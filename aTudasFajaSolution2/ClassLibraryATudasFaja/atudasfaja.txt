@@ -1,0 +1,17 @@
+kerdes;helyes;valasz1;valasz2;valasz3;valasz4;mert
+Mit határozunk meg a metronómmal?;D;A, a metrójáratok sebességét;B, folyók mélységét;C, városok szennyezettségét;D, zeneművek tempóját;A metronóm egy kis tiktakkoló eszköz, amely a zeneművek tempóját jelöli.
+Mennyivel sérülünk kevesebbet ha a kardot védekező pozícióval tartjuk magunk előtt?;B;A, 10%;B, 50%;C, 75%;D, 100% (nem sérülünk);A helyes válasz a feladat logikája szerint 50%.
+Mit hordott az, aki mentét viselt?;A;A, felsőkabátot;B, kalapot;C, csizmát;D, nadrágot;A mente egy díszes felsőkabát volt.
+Mit neveznek űrbélnek?;B;A, űrhajók rakterét;B, csalánozók szervét;C, fekete lyukakat;D, madarak szervét;A csalánozók egyetlen testnyílása az űrbél.
+Hogyan nevezték a párbajok szabályainak összességét?;B;A, párbajkatalógus;B, párbajkódex;C, párbajbrosúra;D, párbajindex;A párbaj szabályait párbajkódexnek nevezték.
+Kiről írt színművet Anton Csehov?;B;A, Soiness építőmesterről;B, Ványa bácsiról;C, Ubü királyról;D, Lear királyról;A Ványa bácsi Csehov egyik legismertebb műve.
+Milyen nemzetiségű, akit a népnyelv polyáknak nevez?;B;A, szlovák;B, lengyel;C, osztrák;D, orosz;A lengyelek saját neve Polacy.
+Mi a pendely?;A;A, ruhadarab;B, gazdasági épület;C, szerszám;D, futóbab;A pendely női alsóruházat.
+Hogy hívják a jelenlegi spanyol királyt?;C;A, János Zsigmond;B, Károly Gusztáv;C, VI. Fülöp;D, XIII. Alfonz;2014 óta VI. Fülöp Spanyolország királya.
+A felsorolt országok közül melyik tagja a NATO-nak?;A;A, Luxemburg;B, Svájc;C, Svédország;D, Ciprus;Luxemburg a NATO alapító tagja.
+Hol bűzlik valami a szállóige szerint?;D;A, a vegyszerboltban;B, a zoknis fiókban;C, a sajtraktárban;D, Dániában;A Hamletből származik a mondás: Valami bűzlik Dániában.
+Melyik rózsa nem növény?;D;A, bazsarózsa;B, tearózsa;C, babérrózsa;D, szélrózsa;A szélrózsa a szélirányokat jelölő skála.
+Hol található Magyarországon a Brunszvik-kastély?;D;A, Sátoraljaújhely;B, Szirák;C, Aszód;D, Martonvásár;A Brunszvik-kastély Martonvásáron található.
+Ki volt az első magyar kormányzó?;C;A, Zrínyi Miklós;B, II. Rákóczi Ferenc;C, Hunyadi János;D, Géza fejedelem;Hunyadi János 1446–1453 között volt kormányzó.
+Miből készült a kiskakas félkrajcárja az ismert műben?;D;A, ezüstből;B, aranyból;C, platinából;D, gyémántból;A mese címe is: A kiskakas gyémánt félkrajcárja.
+Milyen állatot szelídít meg a kis herceg a híres regényben?;B;A, oroszlánt;B, rókát;C, medvét;D, delfint;A kis herceg a rókát szelídíti meg.

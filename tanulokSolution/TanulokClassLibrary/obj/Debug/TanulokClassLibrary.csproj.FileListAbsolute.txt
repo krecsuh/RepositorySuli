@@ -1,0 +1,6 @@
+C:\Users\Atsuhy\source\repos\tanulokSolution\TanulokClassLibrary\bin\Debug\TanulokClassLibrary.dll
+C:\Users\Atsuhy\source\repos\tanulokSolution\TanulokClassLibrary\bin\Debug\TanulokClassLibrary.pdb
+C:\Users\Atsuhy\source\repos\tanulokSolution\TanulokClassLibrary\obj\Debug\TanulokClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Atsuhy\source\repos\tanulokSolution\TanulokClassLibrary\obj\Debug\TanulokClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Atsuhy\source\repos\tanulokSolution\TanulokClassLibrary\obj\Debug\TanulokClassLibrary.dll
+C:\Users\Atsuhy\source\repos\tanulokSolution\TanulokClassLibrary\obj\Debug\TanulokClassLibrary.pdb

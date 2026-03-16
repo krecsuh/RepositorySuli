@@ -1,0 +1,10 @@
+C:\Users\Atsuhy\source\repos\aTudasFajaSolution2\aTudasFaja\bin\Debug\aTudasFaja.exe.config
+C:\Users\Atsuhy\source\repos\aTudasFajaSolution2\aTudasFaja\bin\Debug\aTudasFaja.exe
+C:\Users\Atsuhy\source\repos\aTudasFajaSolution2\aTudasFaja\bin\Debug\aTudasFaja.pdb
+C:\Users\Atsuhy\source\repos\aTudasFajaSolution2\aTudasFaja\obj\Debug\aTudasFaja.csproj.AssemblyReference.cache
+C:\Users\Atsuhy\source\repos\aTudasFajaSolution2\aTudasFaja\obj\Debug\aTudasFaja.Properties.Resources.resources
+C:\Users\Atsuhy\source\repos\aTudasFajaSolution2\aTudasFaja\obj\Debug\aTudasFaja.csproj.GenerateResource.cache
+C:\Users\Atsuhy\source\repos\aTudasFajaSolution2\aTudasFaja\obj\Debug\aTudasFaja.csproj.CoreCompileInputs.cache
+C:\Users\Atsuhy\source\repos\aTudasFajaSolution2\aTudasFaja\obj\Debug\aTudasFaja.exe
+C:\Users\Atsuhy\source\repos\aTudasFajaSolution2\aTudasFaja\obj\Debug\aTudasFaja.pdb
+C:\Users\Atsuhy\source\repos\aTudasFajaSolution2\aTudasFaja\obj\Debug\aTudasFaja.aTudasFajaForm.resources

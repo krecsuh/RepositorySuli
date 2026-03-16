@@ -1,0 +1,10 @@
+C:\Users\Atsuhy\source\repos\Grafika-1\bin\Debug\Grafika-1.exe.config
+C:\Users\Atsuhy\source\repos\Grafika-1\bin\Debug\Grafika-1.exe
+C:\Users\Atsuhy\source\repos\Grafika-1\bin\Debug\Grafika-1.pdb
+C:\Users\Atsuhy\source\repos\Grafika-1\obj\Debug\Grafika-1.csproj.AssemblyReference.cache
+C:\Users\Atsuhy\source\repos\Grafika-1\obj\Debug\Grafika_1.Form1.resources
+C:\Users\Atsuhy\source\repos\Grafika-1\obj\Debug\Grafika_1.Properties.Resources.resources
+C:\Users\Atsuhy\source\repos\Grafika-1\obj\Debug\Grafika-1.csproj.GenerateResource.cache
+C:\Users\Atsuhy\source\repos\Grafika-1\obj\Debug\Grafika-1.csproj.CoreCompileInputs.cache
+C:\Users\Atsuhy\source\repos\Grafika-1\obj\Debug\Grafika-1.exe
+C:\Users\Atsuhy\source\repos\Grafika-1\obj\Debug\Grafika-1.pdb

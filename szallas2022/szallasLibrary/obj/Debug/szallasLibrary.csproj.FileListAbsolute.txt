@@ -1,0 +1,6 @@
+C:\Users\Atsuhy\source\repos\szallas2022\szallasLibrary\bin\Debug\szallasLibrary.dll
+C:\Users\Atsuhy\source\repos\szallas2022\szallasLibrary\bin\Debug\szallasLibrary.pdb
+C:\Users\Atsuhy\source\repos\szallas2022\szallasLibrary\obj\Debug\szallasLibrary.csproj.AssemblyReference.cache
+C:\Users\Atsuhy\source\repos\szallas2022\szallasLibrary\obj\Debug\szallasLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Atsuhy\source\repos\szallas2022\szallasLibrary\obj\Debug\szallasLibrary.dll
+C:\Users\Atsuhy\source\repos\szallas2022\szallasLibrary\obj\Debug\szallasLibrary.pdb

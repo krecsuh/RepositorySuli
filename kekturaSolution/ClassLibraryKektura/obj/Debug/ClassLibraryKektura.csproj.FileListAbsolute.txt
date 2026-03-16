@@ -1,0 +1,6 @@
+C:\Users\Atsuhy\source\repos\kekturaSolution\ClassLibraryKektura\bin\Debug\ClassLibraryKektura.dll
+C:\Users\Atsuhy\source\repos\kekturaSolution\ClassLibraryKektura\bin\Debug\ClassLibraryKektura.pdb
+C:\Users\Atsuhy\source\repos\kekturaSolution\ClassLibraryKektura\obj\Debug\ClassLibraryKektura.csproj.AssemblyReference.cache
+C:\Users\Atsuhy\source\repos\kekturaSolution\ClassLibraryKektura\obj\Debug\ClassLibraryKektura.csproj.CoreCompileInputs.cache
+C:\Users\Atsuhy\source\repos\kekturaSolution\ClassLibraryKektura\obj\Debug\ClassLibraryKektura.dll
+C:\Users\Atsuhy\source\repos\kekturaSolution\ClassLibraryKektura\obj\Debug\ClassLibraryKektura.pdb

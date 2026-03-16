@@ -1,0 +1,10 @@
+C:\Users\Atsuhy\source\repos\Sikidomok2\SikidomCon2\bin\Debug\SikidomCon2.exe.config
+C:\Users\Atsuhy\source\repos\Sikidomok2\SikidomCon2\bin\Debug\SikidomCon2.exe
+C:\Users\Atsuhy\source\repos\Sikidomok2\SikidomCon2\bin\Debug\SikidomCon2.pdb
+C:\Users\Atsuhy\source\repos\Sikidomok2\SikidomCon2\bin\Debug\SikidomClassLibrary.dll
+C:\Users\Atsuhy\source\repos\Sikidomok2\SikidomCon2\bin\Debug\SikidomClassLibrary.pdb
+C:\Users\Atsuhy\source\repos\Sikidomok2\SikidomCon2\obj\Debug\SikidomCon2.csproj.AssemblyReference.cache
+C:\Users\Atsuhy\source\repos\Sikidomok2\SikidomCon2\obj\Debug\SikidomCon2.csproj.CoreCompileInputs.cache
+C:\Users\Atsuhy\source\repos\Sikidomok2\SikidomCon2\obj\Debug\SikidomC.0BF88211.Up2Date
+C:\Users\Atsuhy\source\repos\Sikidomok2\SikidomCon2\obj\Debug\SikidomCon2.exe
+C:\Users\Atsuhy\source\repos\Sikidomok2\SikidomCon2\obj\Debug\SikidomCon2.pdb

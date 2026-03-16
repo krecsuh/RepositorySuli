@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Atsuhy\\source\\repos\\aTudasFajaSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC52167E-C75F-4BCE-B48F-22DC955E5F6F}|atudasfaja2332\\atudasfaja2332.csproj|c:\\users\\atsuhy\\source\\repos\\atudasfajasolution\\atudasfaja2332\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC52167E-C75F-4BCE-B48F-22DC955E5F6F}|atudasfaja2332\\atudasfaja2332.csproj|solutionrelative:atudasfaja2332\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92EE07B3-392B-4CE7-80ED-784D34CF5398}|aTudasFaja\\aTudasFaja.csproj|C:\\Users\\Atsuhy\\source\\repos\\aTudasFajaSolution\\atudasfaja\\atudasfajaclasslibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92EE07B3-392B-4CE7-80ED-784D34CF5398}|aTudasFaja\\aTudasFaja.csproj|solutionrelative:atudasfaja\\atudasfajaclasslibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Atsuhy\\source\\repos\\aTudasFajaSolution\\atudasfaja2332\\Form1.cs",
+              "RelativeDocumentMoniker": "atudasfaja2332\\Form1.cs",
+              "ToolTip": "C:\\Users\\Atsuhy\\source\\repos\\aTudasFajaSolution\\atudasfaja2332\\Form1.cs [Design]",
+              "RelativeToolTip": "atudasfaja2332\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T07:18:17.959Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "aTudasFajaClassLibrary.cs",
+              "DocumentMoniker": "C:\\Users\\Atsuhy\\source\\repos\\aTudasFajaSolution\\aTudasFaja\\aTudasFajaClassLibrary.cs",
+              "RelativeDocumentMoniker": "aTudasFaja\\aTudasFajaClassLibrary.cs",
+              "ToolTip": "C:\\Users\\Atsuhy\\source\\repos\\aTudasFajaSolution\\aTudasFaja\\aTudasFajaClassLibrary.cs",
+              "RelativeToolTip": "aTudasFaja\\aTudasFajaClassLibrary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T06:46:39.307Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

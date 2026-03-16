@@ -1,0 +1,10 @@
+C:\Users\Atsuhy\source\repos\konyvSolution2\konyvCon2\bin\Debug\konyvCon2.exe.config
+C:\Users\Atsuhy\source\repos\konyvSolution2\konyvCon2\bin\Debug\konyvCon2.exe
+C:\Users\Atsuhy\source\repos\konyvSolution2\konyvCon2\bin\Debug\konyvCon2.pdb
+C:\Users\Atsuhy\source\repos\konyvSolution2\konyvCon2\bin\Debug\konyvClassLibrary.dll
+C:\Users\Atsuhy\source\repos\konyvSolution2\konyvCon2\bin\Debug\konyvClassLibrary.pdb
+C:\Users\Atsuhy\source\repos\konyvSolution2\konyvCon2\obj\Debug\konyvCon2.csproj.AssemblyReference.cache
+C:\Users\Atsuhy\source\repos\konyvSolution2\konyvCon2\obj\Debug\konyvCon2.csproj.CoreCompileInputs.cache
+C:\Users\Atsuhy\source\repos\konyvSolution2\konyvCon2\obj\Debug\konyvCon2.csproj.Up2Date
+C:\Users\Atsuhy\source\repos\konyvSolution2\konyvCon2\obj\Debug\konyvCon2.exe
+C:\Users\Atsuhy\source\repos\konyvSolution2\konyvCon2\obj\Debug\konyvCon2.pdb

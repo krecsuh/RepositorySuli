@@ -1,0 +1,10 @@
+C:\Users\Atsuhy\source\repos\korok\korCon\bin\Debug\korCon.exe.config
+C:\Users\Atsuhy\source\repos\korok\korCon\bin\Debug\korCon.exe
+C:\Users\Atsuhy\source\repos\korok\korCon\bin\Debug\korCon.pdb
+C:\Users\Atsuhy\source\repos\korok\korCon\bin\Debug\Kor.dll
+C:\Users\Atsuhy\source\repos\korok\korCon\bin\Debug\Kor.pdb
+C:\Users\Atsuhy\source\repos\korok\korCon\obj\Debug\korCon.csproj.AssemblyReference.cache
+C:\Users\Atsuhy\source\repos\korok\korCon\obj\Debug\korCon.csproj.CoreCompileInputs.cache
+C:\Users\Atsuhy\source\repos\korok\korCon\obj\Debug\korCon.csproj.Up2Date
+C:\Users\Atsuhy\source\repos\korok\korCon\obj\Debug\korCon.exe
+C:\Users\Atsuhy\source\repos\korok\korCon\obj\Debug\korCon.pdb

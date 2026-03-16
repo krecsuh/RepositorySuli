@@ -1,0 +1,6 @@
+C:\Users\Atsuhy\source\repos\sikidomok\sikidiomokLibrary\bin\Debug\sikidiomokLibrary.dll
+C:\Users\Atsuhy\source\repos\sikidomok\sikidiomokLibrary\bin\Debug\sikidiomokLibrary.pdb
+C:\Users\Atsuhy\source\repos\sikidomok\sikidiomokLibrary\obj\Debug\sikidiomokLibrary.csproj.AssemblyReference.cache
+C:\Users\Atsuhy\source\repos\sikidomok\sikidiomokLibrary\obj\Debug\sikidiomokLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Atsuhy\source\repos\sikidomok\sikidiomokLibrary\obj\Debug\sikidiomokLibrary.dll
+C:\Users\Atsuhy\source\repos\sikidomok\sikidiomokLibrary\obj\Debug\sikidiomokLibrary.pdb

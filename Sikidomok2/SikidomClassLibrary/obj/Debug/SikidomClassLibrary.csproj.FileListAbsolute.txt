@@ -1,0 +1,6 @@
+C:\Users\Atsuhy\source\repos\Sikidomok2\SikidomClassLibrary\bin\Debug\SikidomClassLibrary.dll
+C:\Users\Atsuhy\source\repos\Sikidomok2\SikidomClassLibrary\bin\Debug\SikidomClassLibrary.pdb
+C:\Users\Atsuhy\source\repos\Sikidomok2\SikidomClassLibrary\obj\Debug\SikidomClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Atsuhy\source\repos\Sikidomok2\SikidomClassLibrary\obj\Debug\SikidomClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Atsuhy\source\repos\Sikidomok2\SikidomClassLibrary\obj\Debug\SikidomClassLibrary.dll
+C:\Users\Atsuhy\source\repos\Sikidomok2\SikidomClassLibrary\obj\Debug\SikidomClassLibrary.pdb

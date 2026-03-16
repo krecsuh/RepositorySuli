@@ -1,0 +1,10 @@
+C:\Users\Atsuhy\source\repos\sikidomok\sikidomokCon\bin\Debug\sikidomokCon.exe.config
+C:\Users\Atsuhy\source\repos\sikidomok\sikidomokCon\bin\Debug\sikidomokCon.exe
+C:\Users\Atsuhy\source\repos\sikidomok\sikidomokCon\bin\Debug\sikidomokCon.pdb
+C:\Users\Atsuhy\source\repos\sikidomok\sikidomokCon\bin\Debug\sikidiomokLibrary.dll
+C:\Users\Atsuhy\source\repos\sikidomok\sikidomokCon\bin\Debug\sikidiomokLibrary.pdb
+C:\Users\Atsuhy\source\repos\sikidomok\sikidomokCon\obj\Debug\sikidomokCon.csproj.AssemblyReference.cache
+C:\Users\Atsuhy\source\repos\sikidomok\sikidomokCon\obj\Debug\sikidomokCon.csproj.CoreCompileInputs.cache
+C:\Users\Atsuhy\source\repos\sikidomok\sikidomokCon\obj\Debug\sikidomo.1EB782B3.Up2Date
+C:\Users\Atsuhy\source\repos\sikidomok\sikidomokCon\obj\Debug\sikidomokCon.exe
+C:\Users\Atsuhy\source\repos\sikidomok\sikidomokCon\obj\Debug\sikidomokCon.pdb

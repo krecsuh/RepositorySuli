@@ -1,0 +1,10 @@
+C:\Users\Atsuhy\source\repos\GyakorlasGrafika\bin\Debug\GyakorlasGrafika.exe.config
+C:\Users\Atsuhy\source\repos\GyakorlasGrafika\bin\Debug\GyakorlasGrafika.exe
+C:\Users\Atsuhy\source\repos\GyakorlasGrafika\bin\Debug\GyakorlasGrafika.pdb
+C:\Users\Atsuhy\source\repos\GyakorlasGrafika\obj\Debug\GyakorlasGrafika.csproj.AssemblyReference.cache
+C:\Users\Atsuhy\source\repos\GyakorlasGrafika\obj\Debug\GyakorlasGrafika.Form1.resources
+C:\Users\Atsuhy\source\repos\GyakorlasGrafika\obj\Debug\GyakorlasGrafika.Properties.Resources.resources
+C:\Users\Atsuhy\source\repos\GyakorlasGrafika\obj\Debug\GyakorlasGrafika.csproj.GenerateResource.cache
+C:\Users\Atsuhy\source\repos\GyakorlasGrafika\obj\Debug\GyakorlasGrafika.csproj.CoreCompileInputs.cache
+C:\Users\Atsuhy\source\repos\GyakorlasGrafika\obj\Debug\GyakorlasGrafika.exe
+C:\Users\Atsuhy\source\repos\GyakorlasGrafika\obj\Debug\GyakorlasGrafika.pdb

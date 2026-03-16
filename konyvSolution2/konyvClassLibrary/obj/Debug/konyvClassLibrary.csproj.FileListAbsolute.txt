@@ -1,0 +1,6 @@
+C:\Users\Atsuhy\source\repos\konyvSolution2\konyvClassLibrary\bin\Debug\konyvClassLibrary.dll
+C:\Users\Atsuhy\source\repos\konyvSolution2\konyvClassLibrary\bin\Debug\konyvClassLibrary.pdb
+C:\Users\Atsuhy\source\repos\konyvSolution2\konyvClassLibrary\obj\Debug\konyvClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Atsuhy\source\repos\konyvSolution2\konyvClassLibrary\obj\Debug\konyvClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Atsuhy\source\repos\konyvSolution2\konyvClassLibrary\obj\Debug\konyvClassLibrary.dll
+C:\Users\Atsuhy\source\repos\konyvSolution2\konyvClassLibrary\obj\Debug\konyvClassLibrary.pdb

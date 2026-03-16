@@ -1,0 +1,7 @@
+C:\Users\Atsuhy\source\repos\christmasTree\bin\Debug\christmasTree.exe.config
+C:\Users\Atsuhy\source\repos\christmasTree\bin\Debug\christmasTree.exe
+C:\Users\Atsuhy\source\repos\christmasTree\bin\Debug\christmasTree.pdb
+C:\Users\Atsuhy\source\repos\christmasTree\obj\Debug\christmasTree.csproj.AssemblyReference.cache
+C:\Users\Atsuhy\source\repos\christmasTree\obj\Debug\christmasTree.csproj.CoreCompileInputs.cache
+C:\Users\Atsuhy\source\repos\christmasTree\obj\Debug\christmasTree.exe
+C:\Users\Atsuhy\source\repos\christmasTree\obj\Debug\christmasTree.pdb

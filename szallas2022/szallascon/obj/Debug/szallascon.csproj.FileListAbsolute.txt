@@ -1,0 +1,10 @@
+C:\Users\Atsuhy\source\repos\szallas2022\szallascon\bin\Debug\szallascon.exe.config
+C:\Users\Atsuhy\source\repos\szallas2022\szallascon\bin\Debug\szallascon.exe
+C:\Users\Atsuhy\source\repos\szallas2022\szallascon\bin\Debug\szallascon.pdb
+C:\Users\Atsuhy\source\repos\szallas2022\szallascon\bin\Debug\szallasLibrary.dll
+C:\Users\Atsuhy\source\repos\szallas2022\szallascon\bin\Debug\szallasLibrary.pdb
+C:\Users\Atsuhy\source\repos\szallas2022\szallascon\obj\Debug\szallascon.csproj.AssemblyReference.cache
+C:\Users\Atsuhy\source\repos\szallas2022\szallascon\obj\Debug\szallascon.csproj.CoreCompileInputs.cache
+C:\Users\Atsuhy\source\repos\szallas2022\szallascon\obj\Debug\szallascon.csproj.Up2Date
+C:\Users\Atsuhy\source\repos\szallas2022\szallascon\obj\Debug\szallascon.exe
+C:\Users\Atsuhy\source\repos\szallas2022\szallascon\obj\Debug\szallascon.pdb

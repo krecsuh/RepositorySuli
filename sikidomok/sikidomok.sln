@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sikidomokCon", "sikidomokCon\sikidomokCon.csproj", "{ECEAA5CC-4822-452B-A6DD-80B4FD9132C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sikidiomokLibrary", "sikidiomokLibrary\sikidiomokLibrary.csproj", "{3FBEE487-C7B9-458C-908C-4F2F3DDD5ECE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECEAA5CC-4822-452B-A6DD-80B4FD9132C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECEAA5CC-4822-452B-A6DD-80B4FD9132C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECEAA5CC-4822-452B-A6DD-80B4FD9132C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECEAA5CC-4822-452B-A6DD-80B4FD9132C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FBEE487-C7B9-458C-908C-4F2F3DDD5ECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FBEE487-C7B9-458C-908C-4F2F3DDD5ECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FBEE487-C7B9-458C-908C-4F2F3DDD5ECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FBEE487-C7B9-458C-908C-4F2F3DDD5ECE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80BA1312-E613-4A06-8567-EE4B8732E35B}
+	EndGlobalSection
+EndGlobal

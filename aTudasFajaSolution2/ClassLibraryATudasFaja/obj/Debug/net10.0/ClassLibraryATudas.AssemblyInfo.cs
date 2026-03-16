@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClassLibraryATudas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b4072ff01d157fb13abbe7b399b24d30e271de06")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClassLibraryATudas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClassLibraryATudas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Atsuhy\\source\\repos\\aTudasFajaSolution2\\",
+  "WorkspaceRootPath": "C:\\Users\\Atsuhy\\source\\RepositorySuli\\aTudasFajaSolution2\\",
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{6763EDA9-19DE-44F7-AF69-986F3430A796}|aTudasFaja\\aTudasFaja.csproj|c:\\users\\atsuhy\\desktop\\atudas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -9,12 +9,8 @@
       "AbsoluteMoniker": "D:0:0:{6763EDA9-19DE-44F7-AF69-986F3430A796}|aTudasFaja\\aTudasFaja.csproj|c:\\users\\atsuhy\\desktop\\atudas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6763EDA9-19DE-44F7-AF69-986F3430A796}|aTudasFaja\\aTudasFaja.csproj|C:\\Users\\Atsuhy\\source\\repos\\aTudasFajaSolution2\\atudasfaja\\atudasfaja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6763EDA9-19DE-44F7-AF69-986F3430A796}|aTudasFaja\\aTudasFaja.csproj|C:\\Users\\Atsuhy\\source\\RepositorySuli\\aTudasFajaSolution2\\atudasfaja\\atudasfaja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6763EDA9-19DE-44F7-AF69-986F3430A796}|aTudasFaja\\aTudasFaja.csproj|solutionrelative:atudasfaja\\atudasfaja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EAA898C2-75E4-3DCE-C565-B38A2311BCD9}|ClassLibraryATudasFaja\\ClassLibraryATudas.csproj|c:\\users\\atsuhy\\source\\repos\\atudasfajasolution2\\classlibraryatudasfaja\\atudasfaja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAA898C2-75E4-3DCE-C565-B38A2311BCD9}|ClassLibraryATudasFaja\\ClassLibraryATudas.csproj|solutionrelative:classlibraryatudasfaja\\atudasfaja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,31 +20,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ATudasFaja.cs",
-              "DocumentMoniker": "C:\\Users\\Atsuhy\\source\\repos\\aTudasFajaSolution2\\ClassLibraryATudasFaja\\ATudasFaja.cs",
-              "RelativeDocumentMoniker": "ClassLibraryATudasFaja\\ATudasFaja.cs",
-              "ToolTip": "C:\\Users\\Atsuhy\\source\\repos\\aTudasFajaSolution2\\ClassLibraryATudasFaja\\ATudasFaja.cs",
-              "RelativeToolTip": "ClassLibraryATudasFaja\\ATudasFaja.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T07:45:51.491Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ATudasFaja.cs",
-              "DocumentMoniker": "C:\\Users\\Atsuhy\\source\\repos\\aTudasFajaSolution2\\aTudasFaja\\ATudasFaja.cs",
+              "DocumentMoniker": "C:\\Users\\Atsuhy\\source\\RepositorySuli\\aTudasFajaSolution2\\aTudasFaja\\ATudasFaja.cs",
               "RelativeDocumentMoniker": "aTudasFaja\\ATudasFaja.cs",
-              "ToolTip": "C:\\Users\\Atsuhy\\source\\repos\\aTudasFajaSolution2\\aTudasFaja\\ATudasFaja.cs",
+              "ToolTip": "C:\\Users\\Atsuhy\\source\\RepositorySuli\\aTudasFajaSolution2\\aTudasFaja\\ATudasFaja.cs",
               "RelativeToolTip": "aTudasFaja\\ATudasFaja.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAAADEAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwBoAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-02T10:44:57.81Z",
               "IsPinned": true,
@@ -62,7 +44,7 @@
               "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\atudas\\Form1.cs",
               "ToolTip": "C:\\Users\\Atsuhy\\Desktop\\atudas\\Form1.cs",
               "RelativeToolTip": "..\\..\\..\\Desktop\\atudas\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIYAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAgwGgAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-02T07:54:25.265Z",
               "IsPinned": true,

@@ -33,8 +33,7 @@
               "ViewState": "AgIAABcAAAAAAAAAAAAAwBoAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-02T10:44:57.81Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -44,7 +43,7 @@
               "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\atudas\\Form1.cs",
               "ToolTip": "C:\\Users\\Atsuhy\\Desktop\\atudas\\Form1.cs",
               "RelativeToolTip": "..\\..\\..\\Desktop\\atudas\\Form1.cs",
-              "ViewState": "AgIAAF8AAAAAAAAAAAAgwG4AAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwB4AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-02T07:54:25.265Z",
               "IsPinned": true,
@@ -60,8 +59,7 @@
               "RelativeToolTip": "..\\..\\..\\Desktop\\atudas\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-02T07:20:23.734Z",
-              "IsPinned": true,
-              "EditorCaption": " [Design]"
+              "IsPinned": true
             }
           ]
         }
